@@ -756,6 +756,38 @@ input[type='checkbox'] {
 	background-size: cover; 
 }
 
+.header1 {
+	background: linear-gradient(rgba(145, 74, 218, 0), rgba(145, 74, 218, 0)), url('../images/domainBG2.jpg') center center no-repeat;
+	background-size: cover; 
+}
+
+.header1 .header-content1 {
+	padding-top: 10rem;
+	padding-bottom: 8rem;
+	text-align: center;
+}
+
+.header1 .image-container {
+	display: none;
+}
+
+.header1 .h1-large,
+.header1 .p-large {
+	color: rgb(0, 0, 0);
+}
+
+.header1 .h1-large {
+	margin-bottom: 1rem;
+}
+
+.header1 .p-large {
+	margin-bottom: 1.75rem;
+	font-size: 1.125rem;
+	line-height: 1.75rem;
+}
+
+
+
 .header .header-content {
 	padding-top: 10rem;
 	padding-bottom: 8rem;
