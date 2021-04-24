@@ -769,7 +769,7 @@ body {
 .header1 .header-content1 {
 	padding-top: 10rem;
 	/* padding-bottom: 8rem; */
-	text-align: center;
+	text-align: left;
 }
 
 .header1 .image-container {
